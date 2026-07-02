@@ -1,0 +1,6 @@
+{
+  "name": "POLISPACE",
+  "description": "Bilingual futuristic real-estate platform for Poland, combining property marketplace, AI valuation, mapping intelligence, and agent CRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
